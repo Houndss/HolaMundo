@@ -2,10 +2,10 @@
 
 Mi primer repositorio
 
-Naturaleza
+Me gusta la naturaleza, la música, los perros.
 
-Música
 
-Perros
+
+
 
 
